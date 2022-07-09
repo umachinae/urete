@@ -16,7 +16,7 @@
 #   File: urete.pri
 #
 # Author: $author$
-#   Date: 1/26/2022
+#   Date: 3/30/2022
 #
 # os specific QtCreator project .pri file for framework urete
 ########################################################################

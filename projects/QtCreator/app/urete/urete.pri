@@ -16,7 +16,7 @@
 #   File: urete.pri
 #
 # Author: $author$
-#   Date: 1/26/2022
+#   Date: 3/30/2022, 5/8/2022
 #
 # generic QtCreator project .pri file for framework urete executable urete
 ########################################################################
@@ -55,12 +55,14 @@ XOS_CONSOLE_MAIN_MAIN \
 # urete_exe HEADERS
 #
 urete_exe_HEADERS += \
-$${URETE_SRC}/xos/app/console/urete/main.hpp \
+$${URETE_SRC}/xos/app/console/urete/version/main_opt.hpp \
+$${URETE_SRC}/xos/app/console/urete/version/main.hpp \
 
 # urete_exe SOURCES
 #
 urete_exe_SOURCES += \
-$${URETE_SRC}/xos/app/console/urete/main.cpp \
+$${URETE_SRC}/xos/app/console/urete/version/main_opt.cpp \
+$${URETE_SRC}/xos/app/console/urete/version/main.cpp \
 
 ########################################################################
 # urete_exe FRAMEWORKS

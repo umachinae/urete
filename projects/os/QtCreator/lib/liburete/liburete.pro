@@ -16,7 +16,7 @@
 #   File: liburete.pro
 #
 # Author: $author$
-#   Date: 1/26/2022
+#   Date: 3/30/2022
 #
 # os specific QtCreator project .pro file for framework urete static library liburete
 ########################################################################

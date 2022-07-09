@@ -16,14 +16,14 @@
 #   File: liburete.pri
 #
 # Author: $author$
-#   Date: 1/26/2022
+#   Date: 3/30/2022, 5/8/2022
 #
 # generic QtCreator project .pri file for framework urete static library liburete
 ########################################################################
 
 ########################################################################
 # liburete
-XOS_LIB_URETE_VERSION_BUILD_DATE = 1/26/2022 #$$system(~/bin/utility/tdate)
+XOS_LIB_URETE_VERSION_BUILD_DATE = 5/8/2022 #$$system(~/bin/utility/tdate)
 
 # liburete TARGET
 #
